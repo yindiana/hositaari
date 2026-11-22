@@ -1,0 +1,10 @@
+{
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/favicon.svg",
+      "destination": "/public/favicon.svg"
+    }
+  ]
+}
